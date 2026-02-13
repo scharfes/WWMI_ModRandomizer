@@ -1,0 +1,2 @@
+# WWMI_ModRandomizer
+基于WWMI的mod使用原理为每个角色随机选择一个mod,支持排除特定mod,支持角色多皮肤列表
